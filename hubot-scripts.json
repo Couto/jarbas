@@ -1,1 +1,14 @@
-["redis-brain.coffee", "shipit.coffee", "9gag.coffee", "reload.coffee", "buscemi.coffee", "advice.coffee", "mtg.coffee"]
+[
+    "redis-brain.coffee",
+    "shipit.coffee",
+    "9gag.coffee",
+    "reload.coffee",
+    "cleverbot.coffee",
+    "abstract.coffee",
+    "advice.coffee",
+    "mtg.coffee",
+    "transmission.coffee",
+    "darksky.coffee",
+    "brewerydb.coffee",
+    "wat.coffee"
+]
